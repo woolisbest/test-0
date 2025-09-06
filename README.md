@@ -4,10 +4,11 @@
 　これはwoolisbestのプロキシ配布用のリポジトリです。
  毎月２～４回更新する予定なのでいつでも作ったサイトを更新できるようにしてください。
  更新の方法
- 1.[Render](https://render.com/)にログイン
- 2.projectからこのリポジトリをデプロイしたサービスを選択する
- 3.Manual Deploy　→　Deploy latest commitを選択
- 4.1分くらい待つと完成です☑️
+ 
+1. [Render](https://render.com/)にログイン
+2. projectからこのリポジトリをデプロイしたサービスを選択する
+3. Manual Deploy　→　Deploy latest commitを選択
+4. 1分くらい待つと完成です☑️
 
 ---
 
